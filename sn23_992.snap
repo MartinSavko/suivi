@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Snapshot isModified="false" Time="2014-02-14 09:11:18.181" path="/home/experiences/proxima2a/com-proxima2a/Martin/sn23_992.snap" Id="992">
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom6_Z" Id="248">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+275.5
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom7_X" Id="249">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+373.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom9_Z" Id="254">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+315.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/TC.2/temperature" Id="281">
+<ReadValue notApplicable="false">
+22.399999618530273
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="PASSERELLE/EH/MD2/Aperture_20um_Z" Id="285">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+95.5880857379243
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="PASSERELLE/EH/MD2/Aperture_50um_Z" Id="287">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+94.376692436362
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1/quadrant1" Id="266">
+<ReadValue notApplicable="false">
+0.07035304565429687
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/DT/XBPM_DIODE.3/quadrant2" Id="347">
+<ReadValue notApplicable="false">
+2.577161926269531
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/DT/XBPM_DIODE.5/quadrant2" Id="352">
+<ReadValue notApplicable="false">
+0.06454429321289062
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom8_X" Id="251">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+383.5
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom8_Z" Id="252">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+297.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1/quadrant2" Id="268">
+<ReadValue notApplicable="false">
+0.07161991577148437
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/DT/XBPM_DIODE.5/quadrant1" Id="351">
+<ReadValue notApplicable="false">
+0.06417628784179688
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/DT/XBPM_DIODE.5/quadrant3" Id="353">
+<ReadValue notApplicable="false">
+0.05920333862304688
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="TDL-I11-MA/DG/XBPM.2/zPos" Id="64">
+<ReadValue notApplicable="false">
+-0.022442301668476487
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="PASSERELLE/EH/MD2/Aperture_10um_X" Id="343">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+-0.1381029925496
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="PASSERELLE/EH/MD2/Aperture_10um_Z" Id="344">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+96.8680336871665
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/TC.1/temperature" Id="277">
+<ReadValue notApplicable="false">
+22.299999237060547
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TC.1/temperature" Id="278">
+<ReadValue notApplicable="false">
+22.5
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom1_Z" Id="236">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+254.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom3_X" Id="241">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+348.5
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom5_Z" Id="246">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+268.5
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/TC.1/temperature" Id="280">
+<ReadValue notApplicable="false">
+22.5
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1/intensity" Id="265">
+<ReadValue notApplicable="false">
+0.2816084838867188
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/DT/XBPM_DIODE.3/quadrant3" Id="348">
+<ReadValue notApplicable="false">
+1.4456707153320314
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C00/EX/TC.1/temperature" Id="332">
+<ReadValue notApplicable="false">
+20.600000381469727
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/TC.1/temperature" Id="279">
+<ReadValue notApplicable="false">
+22.600000381469727
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom10_X" Id="237">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+414.5
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom10_Z" Id="238">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+330.5
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="PASSERELLE/EH/MD2/Aperture_100um_X" Id="282">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+-0.0720499432678
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1/quadrant3" Id="270">
+<ReadValue notApplicable="false">
+0.07634047241210938
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1/quadrant4" Id="272">
+<ReadValue notApplicable="false">
+0.06329505004882813
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom1_X" Id="235">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+344.5
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="PASSERELLE/EH/MD2/Aperture_50um_X" Id="286">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+-0.0832561115625
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1/horizontalPosition" Id="264">
+<ReadValue notApplicable="false">
+-0.0052067667088691455
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom4_X" Id="243">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+352.5
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom7_Z" Id="250">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+285.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom9_X" Id="253">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+400.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="PASSERELLE/EH/MD2/Aperture_20um_X" Id="284">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+-0.0788374159319
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/DT/XBPM_DIODE.5/intensity" Id="350">
+<ReadValue notApplicable="false">
+0.2498025390625
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="TDL-I11-MA/DG/XBPM.1/xPos" Id="61">
+<ReadValue notApplicable="false">
+-0.0015088635954759524
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/DT/XBPM_DIODE.5/horizontalPosition" Id="357">
+<ReadValue notApplicable="false">
+-0.08195043059178835
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/DT/XBPM_DIODE.5/verticalPosition" Id="358">
+<ReadValue notApplicable="false">
+-0.8705722299167429
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="PASSERELLE/EH/MD2/Aperture_100um_Z" Id="283">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+93.1662368645392
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="TDL-I11-MA/DG/XBPM.1/zPos" Id="62">
+<ReadValue notApplicable="false">
+-0.006743869048821026
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom2_X" Id="239">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+345.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom2_Z" Id="240">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+256.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom3_Z" Id="242">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+258.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom4_Z" Id="244">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+263.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom5_X" Id="245">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+359.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="2" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom6_X" Id="247">
+<ReadValue notApplicable="true">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+365.5
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/DT/XBPM_DIODE.3/intensity" Id="345">
+<ReadValue notApplicable="false">
+8.526310791015625
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/DT/XBPM_DIODE.3/quadrant1" Id="346">
+<ReadValue notApplicable="false">
+1.546837646484375
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/DT/XBPM_DIODE.3/quadrant4" Id="349">
+<ReadValue notApplicable="false">
+2.9566405029296874
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/DT/XBPM_DIODE.5/quadrant4" Id="354">
+<ReadValue notApplicable="false">
+0.061878619384765625
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="TDL-I11-MA/DG/XBPM.2/xPos" Id="63">
+<ReadValue notApplicable="false">
+0.008786331498389496
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1/verticalPosition" Id="274">
+<ReadValue notApplicable="false">
+-0.8516343266886048
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/DT/XBPM_DIODE.3/horizontalPosition" Id="355">
+<ReadValue notApplicable="false">
+0.24983617520045737
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/DT/XBPM_DIODE.3/verticalPosition" Id="356">
+<ReadValue notApplicable="false">
+-0.3432219379061238
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute></Snapshot>

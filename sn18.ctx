@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Context Name="Suivi BeamPosition at Sample" Description="Snapshot des BeamPositions sur Prosilica" isModified="false" path="/home/experiences/proxima2a/com-proxima2a/Martin/sn18.ctx" Author="Duran" ID="18" CreationDate="2013-04-02" Reason="Suivi de la position du faisceau">
+<Attribute Name="Zoom1_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom1_X" Family="EX" />
+
+<Attribute Name="Zoom1_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom1_Z" Family="EX" />
+
+<Attribute Name="Zoom10_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom10_X" Family="EX" />
+
+<Attribute Name="Zoom10_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom10_Z" Family="EX" />
+
+<Attribute Name="Zoom2_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom2_X" Family="EX" />
+
+<Attribute Name="Zoom2_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom2_Z" Family="EX" />
+
+<Attribute Name="Zoom3_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom3_X" Family="EX" />
+
+<Attribute Name="Zoom3_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom3_Z" Family="EX" />
+
+<Attribute Name="Zoom4_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom4_X" Family="EX" />
+
+<Attribute Name="Zoom4_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom4_Z" Family="EX" />
+
+<Attribute Name="Zoom5_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom5_X" Family="EX" />
+
+<Attribute Name="Zoom5_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom5_Z" Family="EX" />
+
+<Attribute Name="Zoom6_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom6_X" Family="EX" />
+
+<Attribute Name="Zoom6_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom6_Z" Family="EX" />
+
+<Attribute Name="Zoom7_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom7_X" Family="EX" />
+
+<Attribute Name="Zoom7_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom7_Z" Family="EX" />
+
+<Attribute Name="Zoom8_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom8_X" Family="EX" />
+
+<Attribute Name="Zoom8_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom8_Z" Family="EX" />
+
+<Attribute Name="Zoom9_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom9_X" Family="EX" />
+
+<Attribute Name="Zoom9_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom9_Z" Family="EX" />
+</Context>

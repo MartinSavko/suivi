@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Context Name="Position Moteurs Ligne" Description="Position de tous les elements de la ligne a 12.65keV" isModified="false" path="/home/experiences/proxima2a/com-proxima2a/Martin/ref10.ctx" Author="Duran" ID="10" CreationDate="2012-12-19" Reason="Memoire de la ref ligne">
+<Attribute Name="encoder2Position" Member="M-U24" Device="M-U24" Domain="ANS-C11" CompleteName="ANS-C11/EI/M-U24/encoder2Position" Family="EI" />
+
+<Attribute Name="energy" Member="MONO1" Device="MONO1" Domain="I11-MA-C03" CompleteName="I11-MA-C03/OP/MONO1/energy" Family="OP" />
+
+<Attribute Name="gap" Member="M-U24" Device="M-U24" Domain="ANS-C11" CompleteName="ANS-C11/EI/M-U24/gap" Family="EI" />
+
+<Attribute Name="gap" Member="FENT_H.1" Device="FENT_H.1" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_H.1/gap" Family="EX" />
+
+<Attribute Name="gap" Member="FENT_V.1" Device="FENT_V.1" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_V.1/gap" Family="EX" />
+
+<Attribute Name="gap" Member="FENT_H.2" Device="FENT_H.2" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_H.2/gap" Family="EX" />
+
+<Attribute Name="gap" Member="FENT_V.2" Device="FENT_V.2" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_V.2/gap" Family="EX" />
+
+<Attribute Name="gap" Member="FENT_H.3" Device="FENT_H.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_H.3/gap" Family="EX" />
+
+<Attribute Name="gap" Member="FENT_V.3" Device="FENT_V.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_V.3/gap" Family="EX" />
+
+<Attribute Name="gap" Member="FENT_H.5" Device="FENT_H.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.5/gap" Family="EX" />
+
+<Attribute Name="gap" Member="FENT_H.6" Device="FENT_H.6" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.6/gap" Family="EX" />
+
+<Attribute Name="gap" Member="FENT_V.5" Device="FENT_V.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.5/gap" Family="EX" />
+
+<Attribute Name="gap" Member="FENT_V.6" Device="FENT_V.6" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.6/gap" Family="EX" />
+
+<Attribute Name="gapOffset" Member="FENT_H.1" Device="FENT_H.1" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_H.1/gapOffset" Family="EX" />
+
+<Attribute Name="gapOffset" Member="FENT_V.1" Device="FENT_V.1" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_V.1/gapOffset" Family="EX" />
+
+<Attribute Name="gapOffset" Member="FENT_H.2" Device="FENT_H.2" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_H.2/gapOffset" Family="EX" />
+
+<Attribute Name="gapOffset" Member="FENT_V.2" Device="FENT_V.2" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_V.2/gapOffset" Family="EX" />
+
+<Attribute Name="gapOffset" Member="FENT_H.3" Device="FENT_H.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_H.3/gapOffset" Family="EX" />
+
+<Attribute Name="gapOffset" Member="FENT_V.3" Device="FENT_V.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_V.3/gapOffset" Family="EX" />
+
+<Attribute Name="gapOffset" Member="FENT_H.5" Device="FENT_H.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.5/gapOffset" Family="EX" />
+
+<Attribute Name="gapOffset" Member="FENT_H.6" Device="FENT_H.6" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.6/gapOffset" Family="EX" />
+
+<Attribute Name="gapOffset" Member="FENT_V.5" Device="FENT_V.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.5/gapOffset" Family="EX" />
+
+<Attribute Name="gapOffset" Member="FENT_V.6" Device="FENT_V.6" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.6/gapOffset" Family="EX" />
+
+<Attribute Name="insideUpPosition" Member="FENT_H.1" Device="FENT_H.1" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_H.1/insideUpPosition" Family="EX" />
+
+<Attribute Name="insideUpPosition" Member="FENT_V.1" Device="FENT_V.1" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_V.1/insideUpPosition" Family="EX" />
+
+<Attribute Name="insideUpPosition" Member="FENT_H.2" Device="FENT_H.2" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_H.2/insideUpPosition" Family="EX" />
+
+<Attribute Name="insideUpPosition" Member="FENT_V.2" Device="FENT_V.2" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_V.2/insideUpPosition" Family="EX" />
+
+<Attribute Name="insideUpPosition" Member="FENT_H.3" Device="FENT_H.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_H.3/insideUpPosition" Family="EX" />
+
+<Attribute Name="insideUpPosition" Member="FENT_V.3" Device="FENT_V.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_V.3/insideUpPosition" Family="EX" />
+
+<Attribute Name="insideUpPosition" Member="FENT_H.5" Device="FENT_H.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.5/insideUpPosition" Family="EX" />
+
+<Attribute Name="insideUpPosition" Member="FENT_H.6" Device="FENT_H.6" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.6/insideUpPosition" Family="EX" />
+
+<Attribute Name="insideUpPosition" Member="FENT_V.5" Device="FENT_V.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.5/insideUpPosition" Family="EX" />
+
+<Attribute Name="insideUpPosition" Member="FENT_V.6" Device="FENT_V.6" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.6/insideUpPosition" Family="EX" />
+
+<Attribute Name="lambda" Member="MONO1" Device="MONO1" Domain="I11-MA-C03" CompleteName="I11-MA-C03/OP/MONO1/lambda" Family="OP" />
+
+<Attribute Name="offset" Member="FENT_H.1-MT_I" Device="FENT_H.1-MT_I" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_H.1-MT_I/offset" Family="EX" />
+
+<Attribute Name="offset" Member="FENT_H.1-MT_O" Device="FENT_H.1-MT_O" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_H.1-MT_O/offset" Family="EX" />
+
+<Attribute Name="offset" Member="FENT_V.1-MT_D" Device="FENT_V.1-MT_D" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_V.1-MT_D/offset" Family="EX" />
+
+<Attribute Name="offset" Member="FENT_V.1-MT_U" Device="FENT_V.1-MT_U" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_V.1-MT_U/offset" Family="EX" />
+
+<Attribute Name="offset" Member="MONO1-MT_Rx_FINE" Device="MONO1-MT_Rx_FINE" Domain="I11-MA-C03" CompleteName="I11-MA-C03/OP/MONO1-MT_Rx_FINE/offset" Family="OP" />
+
+<Attribute Name="offset" Member="MONO1-MT_Rx" Device="MONO1-MT_Rx" Domain="I11-MA-C03" CompleteName="I11-MA-C03/OP/MONO1-MT_Rx/offset" Family="OP" />
+
+<Attribute Name="offset" Member="IMAG.2-MT_Tz" Device="IMAG.2-MT_Tz" Domain="I11-MA-C04" CompleteName="I11-MA-C04/DT/IMAG.2-MT_Tz/offset" Family="DT" />
+
+<Attribute Name="offset" Member="XBPM_DIODE.1-MT_Tx.1" Device="XBPM_DIODE.1-MT_Tx.1" Domain="I11-MA-C04" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1-MT_Tx.1/offset" Family="DT" />
+
+<Attribute Name="offset" Member="XBPM_DIODE.1-MT_Tx.2" Device="XBPM_DIODE.1-MT_Tx.2" Domain="I11-MA-C04" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1-MT_Tx.2/offset" Family="DT" />
+
+<Attribute Name="offset" Member="XBPM_DIODE.1-MT_Tz" Device="XBPM_DIODE.1-MT_Tz" Domain="I11-MA-C04" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1-MT_Tz/offset" Family="DT" />
+
+<Attribute Name="offset" Member="FENT_H.2-MT_I" Device="FENT_H.2-MT_I" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_H.2-MT_I/offset" Family="EX" />
+
+<Attribute Name="offset" Member="FENT_H.2-MT_O" Device="FENT_H.2-MT_O" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_H.2-MT_O/offset" Family="EX" />
+
+<Attribute Name="offset" Member="FENT_V.2-MT_D" Device="FENT_V.2-MT_D" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_V.2-MT_D/offset" Family="EX" />
+
+<Attribute Name="offset" Member="FENT_V.2-MT_U" Device="FENT_V.2-MT_U" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_V.2-MT_U/offset" Family="EX" />
+
+<Attribute Name="offset" Member="MIR.1-MT_Rs" Device="MIR.1-MT_Rs" Domain="I11-MA-C04" CompleteName="I11-MA-C04/OP/MIR.1-MT_Rs/offset" Family="OP" />
+
+<Attribute Name="offset" Member="MIR.1-MT_Rz" Device="MIR.1-MT_Rz" Domain="I11-MA-C04" CompleteName="I11-MA-C04/OP/MIR.1-MT_Rz/offset" Family="OP" />
+
+<Attribute Name="offset" Member="MIR.1-MT_Tx" Device="MIR.1-MT_Tx" Domain="I11-MA-C04" CompleteName="I11-MA-C04/OP/MIR.1-MT_Tx/offset" Family="OP" />
+
+<Attribute Name="offset" Member="FENT_H.3-MT_EC" Device="FENT_H.3-MT_EC" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_H.3-MT_EC/offset" Family="EX" />
+
+<Attribute Name="offset" Member="FENT_H.3-MT_TX" Device="FENT_H.3-MT_TX" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_H.3-MT_TX/offset" Family="EX" />
+
+<Attribute Name="offset" Member="FENT_V.3-MT_EC" Device="FENT_V.3-MT_EC" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_V.3-MT_EC/offset" Family="EX" />
+
+<Attribute Name="offset" Member="FENT_V.3-MT_TZ" Device="FENT_V.3-MT_TZ" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_V.3-MT_TZ/offset" Family="EX" />
+
+<Attribute Name="offset" Member="TAB.1-MT_Tx" Device="TAB.1-MT_Tx" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.1-MT_Tx/offset" Family="EX" />
+
+<Attribute Name="offset" Member="TAB.1-MT_Tz" Device="TAB.1-MT_Tz" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.1-MT_Tz/offset" Family="EX" />
+
+<Attribute Name="offset" Member="TAB.2-MT_Tx.1" Device="TAB.2-MT_Tx.1" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tx.1/offset" Family="EX" />
+
+<Attribute Name="offset" Member="TAB.2-MT_Tx.2" Device="TAB.2-MT_Tx.2" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tx.2/offset" Family="EX" />
+
+<Attribute Name="offset" Member="TAB.2-MT_Tz.1" Device="TAB.2-MT_Tz.1" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tz.1/offset" Family="EX" />
+
+<Attribute Name="offset" Member="TAB.2-MT_Tz.2" Device="TAB.2-MT_Tz.2" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tz.2/offset" Family="EX" />
+
+<Attribute Name="offset" Member="TAB.2-MT_Tz.3" Device="TAB.2-MT_Tz.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tz.3/offset" Family="EX" />
+
+<Attribute Name="offset" Member="TAB.3-MT_Tx" Device="TAB.3-MT_Tx" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.3-MT_Tx/offset" Family="EX" />
+
+<Attribute Name="offset" Member="TAB.3-MT_Tz" Device="TAB.3-MT_Tz" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.3-MT_Tz/offset" Family="EX" />
+
+<Attribute Name="offset" Member="MIR.2-MT_Rx" Device="MIR.2-MT_Rx" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR.2-MT_Rx/offset" Family="OP" />
+
+<Attribute Name="offset" Member="MIR.2-MT_Tz" Device="MIR.2-MT_Tz" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR.2-MT_Tz/offset" Family="OP" />
+
+<Attribute Name="offset" Member="MIR.3-MT_Rz" Device="MIR.3-MT_Rz" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR.3-MT_Rz/offset" Family="OP" />
+
+<Attribute Name="offset" Member="MIR.3-MT_Tx" Device="MIR.3-MT_Tx" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR.3-MT_Tx/offset" Family="OP" />
+
+<Attribute Name="offset" Member="FENT_H.5-MT_EC" Device="FENT_H.5-MT_EC" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.5-MT_EC/offset" Family="EX" />
+
+<Attribute Name="offset" Member="FENT_H.5-MT_Tx" Device="FENT_H.5-MT_Tx" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.5-MT_Tx/offset" Family="EX" />
+
+<Attribute Name="offset" Member="FENT_H.6-MT_EC" Device="FENT_H.6-MT_EC" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.6-MT_EC/offset" Family="EX" />
+
+<Attribute Name="offset" Member="FENT_H.6-MT_Tx" Device="FENT_H.6-MT_Tx" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.6-MT_Tx/offset" Family="EX" />
+
+<Attribute Name="offset" Member="FENT_V.5-MT_EC" Device="FENT_V.5-MT_EC" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.5-MT_EC/offset" Family="EX" />
+
+<Attribute Name="offset" Member="FENT_V.5-MT_Tz" Device="FENT_V.5-MT_Tz" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.5-MT_Tz/offset" Family="EX" />
+
+<Attribute Name="offset" Member="FENT_V.6-MT_EC" Device="FENT_V.6-MT_EC" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.6-MT_EC/offset" Family="EX" />
+
+<Attribute Name="offset" Member="FENT_V.6-MT_Tz" Device="FENT_V.6-MT_Tz" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.6-MT_Tz/offset" Family="EX" />
+
+<Attribute Name="offset" Member="SHUTTER-MT_Tx" Device="SHUTTER-MT_Tx" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/SHUTTER-MT_Tx/offset" Family="EX" />
+
+<Attribute Name="offset" Member="SHUTTER-MT_Tz" Device="SHUTTER-MT_Tz" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/SHUTTER-MT_Tz/offset" Family="EX" />
+
+<Attribute Name="offset" Member="TAB.4-MT_Tx" Device="TAB.4-MT_Tx" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/TAB.4-MT_Tx/offset" Family="EX" />
+
+<Attribute Name="offset" Member="TAB.4-MT_Tz" Device="TAB.4-MT_Tz" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/TAB.4-MT_Tz/offset" Family="EX" />
+
+<Attribute Name="offset" Member="TAB.5-MT_Tx" Device="TAB.5-MT_Tx" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/TAB.5-MT_Tx/offset" Family="EX" />
+
+<Attribute Name="offset" Member="TAB.5-MT_Tz" Device="TAB.5-MT_Tz" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/TAB.5-MT_Tz/offset" Family="EX" />
+
+<Attribute Name="offset" Member="CAMX.1-MT_RZ" Device="CAMX.1-MT_RZ" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/DT/CAMX.1-MT_RZ/offset" Family="DT" />
+
+<Attribute Name="offset" Member="CAMX.1-MT_TX" Device="CAMX.1-MT_TX" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/DT/CAMX.1-MT_TX/offset" Family="DT" />
+
+<Attribute Name="offset" Member="CAMX.1-MT_TZ" Device="CAMX.1-MT_TZ" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/DT/CAMX.1-MT_TZ/offset" Family="DT" />
+
+<Attribute Name="offset" Member="DTC_CCD.1-MT_TS" Device="DTC_CCD.1-MT_TS" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/DT/DTC_CCD.1-MT_TS/offset" Family="DT" />
+
+<Attribute Name="offset" Member="DTC_CCD.1-MT_TX" Device="DTC_CCD.1-MT_TX" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/DT/DTC_CCD.1-MT_TX/offset" Family="DT" />
+
+<Attribute Name="offset" Member="DTC_CCD.1-MT_TZ" Device="DTC_CCD.1-MT_TZ" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/DT/DTC_CCD.1-MT_TZ/offset" Family="DT" />
+
+<Attribute Name="outsideDownPosition" Member="FENT_H.1" Device="FENT_H.1" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_H.1/outsideDownPosition" Family="EX" />
+
+<Attribute Name="outsideDownPosition" Member="FENT_V.1" Device="FENT_V.1" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_V.1/outsideDownPosition" Family="EX" />
+
+<Attribute Name="outsideDownPosition" Member="FENT_H.2" Device="FENT_H.2" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_H.2/outsideDownPosition" Family="EX" />
+
+<Attribute Name="outsideDownPosition" Member="FENT_V.2" Device="FENT_V.2" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_V.2/outsideDownPosition" Family="EX" />
+
+<Attribute Name="outsideDownPosition" Member="FENT_H.3" Device="FENT_H.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_H.3/outsideDownPosition" Family="EX" />
+
+<Attribute Name="outsideDownPosition" Member="FENT_V.3" Device="FENT_V.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_V.3/outsideDownPosition" Family="EX" />
+
+<Attribute Name="outsideDownPosition" Member="FENT_H.5" Device="FENT_H.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.5/outsideDownPosition" Family="EX" />
+
+<Attribute Name="outsideDownPosition" Member="FENT_H.6" Device="FENT_H.6" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.6/outsideDownPosition" Family="EX" />
+
+<Attribute Name="outsideDownPosition" Member="FENT_V.5" Device="FENT_V.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.5/outsideDownPosition" Family="EX" />
+
+<Attribute Name="outsideDownPosition" Member="FENT_V.6" Device="FENT_V.6" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.6/outsideDownPosition" Family="EX" />
+
+<Attribute Name="pitch" Member="TAB.2" Device="TAB.2" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2/pitch" Family="EX" />
+
+<Attribute Name="position" Member="FENT_H.1" Device="FENT_H.1" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_H.1/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_H.1-MT_I" Device="FENT_H.1-MT_I" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_H.1-MT_I/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_H.1-MT_O" Device="FENT_H.1-MT_O" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_H.1-MT_O/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_V.1" Device="FENT_V.1" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_V.1/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_V.1-MT_D" Device="FENT_V.1-MT_D" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_V.1-MT_D/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_V.1-MT_U" Device="FENT_V.1-MT_U" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_V.1-MT_U/position" Family="EX" />
+
+<Attribute Name="position" Member="MONO1-MT_Rx_FINE" Device="MONO1-MT_Rx_FINE" Domain="I11-MA-C03" CompleteName="I11-MA-C03/OP/MONO1-MT_Rx_FINE/position" Family="OP" />
+
+<Attribute Name="position" Member="MONO1-MT_Rx" Device="MONO1-MT_Rx" Domain="I11-MA-C03" CompleteName="I11-MA-C03/OP/MONO1-MT_Rx/position" Family="OP" />
+
+<Attribute Name="position" Member="IMAG.2-MT_Tz" Device="IMAG.2-MT_Tz" Domain="I11-MA-C04" CompleteName="I11-MA-C04/DT/IMAG.2-MT_Tz/position" Family="DT" />
+
+<Attribute Name="position" Member="XBPM_DIODE.1-MT_Tx.1" Device="XBPM_DIODE.1-MT_Tx.1" Domain="I11-MA-C04" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1-MT_Tx.1/position" Family="DT" />
+
+<Attribute Name="position" Member="XBPM_DIODE.1-MT_Tx.2" Device="XBPM_DIODE.1-MT_Tx.2" Domain="I11-MA-C04" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1-MT_Tx.2/position" Family="DT" />
+
+<Attribute Name="position" Member="XBPM_DIODE.1-MT_Tz" Device="XBPM_DIODE.1-MT_Tz" Domain="I11-MA-C04" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1-MT_Tz/position" Family="DT" />
+
+<Attribute Name="position" Member="FENT_H.2" Device="FENT_H.2" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_H.2/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_H.2-MT_I" Device="FENT_H.2-MT_I" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_H.2-MT_I/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_H.2-MT_O" Device="FENT_H.2-MT_O" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_H.2-MT_O/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_V.2" Device="FENT_V.2" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_V.2/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_V.2-MT_D" Device="FENT_V.2-MT_D" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_V.2-MT_D/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_V.2-MT_U" Device="FENT_V.2-MT_U" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_V.2-MT_U/position" Family="EX" />
+
+<Attribute Name="position" Member="MIR.1-MT_Rs" Device="MIR.1-MT_Rs" Domain="I11-MA-C04" CompleteName="I11-MA-C04/OP/MIR.1-MT_Rs/position" Family="OP" />
+
+<Attribute Name="position" Member="MIR.1-MT_Rz" Device="MIR.1-MT_Rz" Domain="I11-MA-C04" CompleteName="I11-MA-C04/OP/MIR.1-MT_Rz/position" Family="OP" />
+
+<Attribute Name="position" Member="MIR.1-MT_Tx" Device="MIR.1-MT_Tx" Domain="I11-MA-C04" CompleteName="I11-MA-C04/OP/MIR.1-MT_Tx/position" Family="OP" />
+
+<Attribute Name="position" Member="FENT_H.3" Device="FENT_H.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_H.3/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_H.3-MT_EC" Device="FENT_H.3-MT_EC" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_H.3-MT_EC/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_H.3-MT_TX" Device="FENT_H.3-MT_TX" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_H.3-MT_TX/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_V.3" Device="FENT_V.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_V.3/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_V.3-MT_EC" Device="FENT_V.3-MT_EC" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_V.3-MT_EC/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_V.3-MT_TZ" Device="FENT_V.3-MT_TZ" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_V.3-MT_TZ/position" Family="EX" />
+
+<Attribute Name="position" Member="TAB.1-MT_Tx" Device="TAB.1-MT_Tx" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.1-MT_Tx/position" Family="EX" />
+
+<Attribute Name="position" Member="TAB.1-MT_Tz" Device="TAB.1-MT_Tz" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.1-MT_Tz/position" Family="EX" />
+
+<Attribute Name="position" Member="TAB.2-MT_Tx.1" Device="TAB.2-MT_Tx.1" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tx.1/position" Family="EX" />
+
+<Attribute Name="position" Member="TAB.2-MT_Tx.2" Device="TAB.2-MT_Tx.2" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tx.2/position" Family="EX" />
+
+<Attribute Name="position" Member="TAB.2-MT_Tz.1" Device="TAB.2-MT_Tz.1" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tz.1/position" Family="EX" />
+
+<Attribute Name="position" Member="TAB.2-MT_Tz.2" Device="TAB.2-MT_Tz.2" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tz.2/position" Family="EX" />
+
+<Attribute Name="position" Member="TAB.2-MT_Tz.3" Device="TAB.2-MT_Tz.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tz.3/position" Family="EX" />
+
+<Attribute Name="position" Member="TAB.3-MT_Tx" Device="TAB.3-MT_Tx" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.3-MT_Tx/position" Family="EX" />
+
+<Attribute Name="position" Member="TAB.3-MT_Tz" Device="TAB.3-MT_Tz" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.3-MT_Tz/position" Family="EX" />
+
+<Attribute Name="position" Member="MIR.2-MT_Rx" Device="MIR.2-MT_Rx" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR.2-MT_Rx/position" Family="OP" />
+
+<Attribute Name="position" Member="MIR.2-MT_Tz" Device="MIR.2-MT_Tz" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR.2-MT_Tz/position" Family="OP" />
+
+<Attribute Name="position" Member="MIR.3-MT_Rz" Device="MIR.3-MT_Rz" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR.3-MT_Rz/position" Family="OP" />
+
+<Attribute Name="position" Member="MIR.3-MT_Tx" Device="MIR.3-MT_Tx" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR.3-MT_Tx/position" Family="OP" />
+
+<Attribute Name="position" Member="FENT_H.5" Device="FENT_H.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.5/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_H.5-MT_EC" Device="FENT_H.5-MT_EC" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.5-MT_EC/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_H.5-MT_Tx" Device="FENT_H.5-MT_Tx" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.5-MT_Tx/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_H.6" Device="FENT_H.6" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.6/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_H.6-MT_EC" Device="FENT_H.6-MT_EC" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.6-MT_EC/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_H.6-MT_Tx" Device="FENT_H.6-MT_Tx" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.6-MT_Tx/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_V.5" Device="FENT_V.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.5/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_V.5-MT_EC" Device="FENT_V.5-MT_EC" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.5-MT_EC/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_V.5-MT_Tz" Device="FENT_V.5-MT_Tz" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.5-MT_Tz/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_V.6" Device="FENT_V.6" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.6/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_V.6-MT_EC" Device="FENT_V.6-MT_EC" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.6-MT_EC/position" Family="EX" />
+
+<Attribute Name="position" Member="FENT_V.6-MT_Tz" Device="FENT_V.6-MT_Tz" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.6-MT_Tz/position" Family="EX" />
+
+<Attribute Name="position" Member="SHUTTER-MT_Tx" Device="SHUTTER-MT_Tx" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/SHUTTER-MT_Tx/position" Family="EX" />
+
+<Attribute Name="position" Member="SHUTTER-MT_Tz" Device="SHUTTER-MT_Tz" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/SHUTTER-MT_Tz/position" Family="EX" />
+
+<Attribute Name="position" Member="TAB.4-MT_Tx" Device="TAB.4-MT_Tx" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/TAB.4-MT_Tx/position" Family="EX" />
+
+<Attribute Name="position" Member="TAB.4-MT_Tz" Device="TAB.4-MT_Tz" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/TAB.4-MT_Tz/position" Family="EX" />
+
+<Attribute Name="position" Member="TAB.5-MT_Tx" Device="TAB.5-MT_Tx" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/TAB.5-MT_Tx/position" Family="EX" />
+
+<Attribute Name="position" Member="TAB.5-MT_Tz" Device="TAB.5-MT_Tz" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/TAB.5-MT_Tz/position" Family="EX" />
+
+<Attribute Name="position" Member="CAMX.1-MT_RZ" Device="CAMX.1-MT_RZ" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/DT/CAMX.1-MT_RZ/position" Family="DT" />
+
+<Attribute Name="position" Member="CAMX.1-MT_TX" Device="CAMX.1-MT_TX" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/DT/CAMX.1-MT_TX/position" Family="DT" />
+
+<Attribute Name="position" Member="CAMX.1-MT_TZ" Device="CAMX.1-MT_TZ" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/DT/CAMX.1-MT_TZ/position" Family="DT" />
+
+<Attribute Name="position" Member="DTC_CCD.1-MT_TS" Device="DTC_CCD.1-MT_TS" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/DT/DTC_CCD.1-MT_TS/position" Family="DT" />
+
+<Attribute Name="position" Member="DTC_CCD.1-MT_TX" Device="DTC_CCD.1-MT_TX" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/DT/DTC_CCD.1-MT_TX/position" Family="DT" />
+
+<Attribute Name="position" Member="DTC_CCD.1-MT_TZ" Device="DTC_CCD.1-MT_TZ" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/DT/DTC_CCD.1-MT_TZ/position" Family="DT" />
+
+<Attribute Name="positionOffset" Member="FENT_H.1" Device="FENT_H.1" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_H.1/positionOffset" Family="EX" />
+
+<Attribute Name="positionOffset" Member="FENT_V.1" Device="FENT_V.1" Domain="I11-MA-C02" CompleteName="I11-MA-C02/EX/FENT_V.1/positionOffset" Family="EX" />
+
+<Attribute Name="positionOffset" Member="FENT_H.2" Device="FENT_H.2" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_H.2/positionOffset" Family="EX" />
+
+<Attribute Name="positionOffset" Member="FENT_V.2" Device="FENT_V.2" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/FENT_V.2/positionOffset" Family="EX" />
+
+<Attribute Name="positionOffset" Member="FENT_H.3" Device="FENT_H.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_H.3/positionOffset" Family="EX" />
+
+<Attribute Name="positionOffset" Member="FENT_V.3" Device="FENT_V.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/FENT_V.3/positionOffset" Family="EX" />
+
+<Attribute Name="positionOffset" Member="FENT_H.5" Device="FENT_H.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.5/positionOffset" Family="EX" />
+
+<Attribute Name="positionOffset" Member="FENT_H.6" Device="FENT_H.6" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_H.6/positionOffset" Family="EX" />
+
+<Attribute Name="positionOffset" Member="FENT_V.5" Device="FENT_V.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.5/positionOffset" Family="EX" />
+
+<Attribute Name="positionOffset" Member="FENT_V.6" Device="FENT_V.6" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/FENT_V.6/positionOffset" Family="EX" />
+
+<Attribute Name="roll" Member="TAB.2" Device="TAB.2" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2/roll" Family="EX" />
+
+<Attribute Name="rx2_1" Member="MONO1" Device="MONO1" Domain="I11-MA-C03" CompleteName="I11-MA-C03/OP/MONO1/rx2_1" Family="OP" />
+
+<Attribute Name="t1z" Member="TAB.2" Device="TAB.2" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2/t1z" Family="EX" />
+
+<Attribute Name="t2z" Member="TAB.2" Device="TAB.2" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2/t2z" Family="EX" />
+
+<Attribute Name="t3z" Member="TAB.2" Device="TAB.2" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2/t3z" Family="EX" />
+
+<Attribute Name="t4x" Member="TAB.2" Device="TAB.2" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2/t4x" Family="EX" />
+
+<Attribute Name="t5x" Member="TAB.2" Device="TAB.2" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2/t5x" Family="EX" />
+
+<Attribute Name="thetaBragg" Member="MONO1" Device="MONO1" Domain="I11-MA-C03" CompleteName="I11-MA-C03/OP/MONO1/thetaBragg" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.0" Device="MIR2-CH.0" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.0/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.00" Device="MIR2-CH.00" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.00/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.01" Device="MIR2-CH.01" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.01/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.02" Device="MIR2-CH.02" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.02/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.03" Device="MIR2-CH.03" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.03/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.04" Device="MIR2-CH.04" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.04/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.05" Device="MIR2-CH.05" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.05/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.06" Device="MIR2-CH.06" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.06/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.07" Device="MIR2-CH.07" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.07/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.08" Device="MIR2-CH.08" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.08/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.09" Device="MIR2-CH.09" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.09/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.1" Device="MIR2-CH.1" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.1/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.10" Device="MIR2-CH.10" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.10/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.11" Device="MIR2-CH.11" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.11/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.2" Device="MIR2-CH.2" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.2/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.3" Device="MIR2-CH.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.3/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.4" Device="MIR2-CH.4" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.4/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.5" Device="MIR2-CH.5" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.5/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.6" Device="MIR2-CH.6" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.6/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.7" Device="MIR2-CH.7" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.7/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.8" Device="MIR2-CH.8" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.8/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR2-CH.9" Device="MIR2-CH.9" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR2-CH.9/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR3-CH.00" Device="MIR3-CH.00" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR3-CH.00/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR3-CH.01" Device="MIR3-CH.01" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR3-CH.01/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR3-CH.02" Device="MIR3-CH.02" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR3-CH.02/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR3-CH.03" Device="MIR3-CH.03" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR3-CH.03/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR3-CH.04" Device="MIR3-CH.04" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR3-CH.04/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR3-CH.05" Device="MIR3-CH.05" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR3-CH.05/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR3-CH.06" Device="MIR3-CH.06" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR3-CH.06/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR3-CH.07" Device="MIR3-CH.07" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR3-CH.07/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR3-CH.08" Device="MIR3-CH.08" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR3-CH.08/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR3-CH.09" Device="MIR3-CH.09" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR3-CH.09/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR3-CH.10" Device="MIR3-CH.10" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR3-CH.10/voltage" Family="OP" />
+
+<Attribute Name="voltage" Member="MIR3-CH.11" Device="MIR3-CH.11" Domain="I11-MA-C05" CompleteName="I11-MA-C05/OP/MIR3-CH.11/voltage" Family="OP" />
+
+<Attribute Name="xC" Member="TAB.2" Device="TAB.2" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2/xC" Family="EX" />
+
+<Attribute Name="xPos" Member="XBPM.1" Device="XBPM.1" Domain="TDL-I11-MA" CompleteName="TDL-I11-MA/DG/XBPM.1/xPos" Family="DG" />
+
+<Attribute Name="xPos" Member="XBPM.2" Device="XBPM.2" Domain="TDL-I11-MA" CompleteName="TDL-I11-MA/DG/XBPM.2/xPos" Family="DG" />
+
+<Attribute Name="yaw" Member="TAB.2" Device="TAB.2" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2/yaw" Family="EX" />
+
+<Attribute Name="zC" Member="TAB.2" Device="TAB.2" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TAB.2/zC" Family="EX" />
+
+<Attribute Name="zPos" Member="XBPM.1" Device="XBPM.1" Domain="TDL-I11-MA" CompleteName="TDL-I11-MA/DG/XBPM.1/zPos" Family="DG" />
+
+<Attribute Name="zPos" Member="XBPM.2" Device="XBPM.2" Domain="TDL-I11-MA" CompleteName="TDL-I11-MA/DG/XBPM.2/zPos" Family="DG" />
+</Context>

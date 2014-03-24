@@ -1,0 +1,1778 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Snapshot isModified="false" Time="2013-12-16 08:25:02.929" path="/home/experiences/proxima2a/com-proxima2a/Martin/sn23.snap" Comment="Fin Run5 2013" Id="927">
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_H.1-MT_I/offset" Id="11">
+<ReadValue notApplicable="false">
+-1.200666996E-4
+</ReadValue>
+<WriteValue notApplicable="false">
+-1.200666996E-4
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_V.1/insideUpPosition" Id="14">
+<ReadValue notApplicable="false">
+0.5044156603575001
+</ReadValue>
+<WriteValue notApplicable="false">
+1.0008044603894
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_V.1-MT_D/position" Id="3">
+<ReadValue notApplicable="false">
+0.5047156021211
+</ReadValue>
+<WriteValue notApplicable="false">
+1.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C03/OP/MONO1-MT_Rx/offset" Id="53">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1-MT_Tx.2/offset" Id="102">
+<ReadValue notApplicable="false">
+-0.013
+</ReadValue>
+<WriteValue notApplicable="false">
+-0.013
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/OP/MIR.1-MT_Rz/position" Id="122">
+<ReadValue notApplicable="false">
+3.42089892
+</ReadValue>
+<WriteValue notApplicable="false">
+3.4144
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_H.3/gap" Id="203">
+<ReadValue notApplicable="false">
+2.0400400000000003
+</ReadValue>
+<WriteValue notApplicable="false">
+2.5
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_H.3/gapOffset" Id="204">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_H.3/insideUpPosition" Id="205">
+<ReadValue notApplicable="false">
+1.01997
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_V.3/outsideDownPosition" Id="216">
+<ReadValue notApplicable="false">
+0.5116700000000001
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_V.3-MT_TZ/offset" Id="221">
+<ReadValue notApplicable="false">
+1.3611
+</ReadValue>
+<WriteValue notApplicable="false">
+1.3611
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2/pitch" Id="125">
+<ReadValue notApplicable="false">
+8.085545880757756
+</ReadValue>
+<WriteValue notApplicable="false">
+8.0853
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2/t3z" Id="129">
+<ReadValue notApplicable="false">
+-2.4568000000000003
+</ReadValue>
+<WriteValue notApplicable="false">
+-2.4566246029988417
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2/xC" Id="132">
+<ReadValue notApplicable="false">
+-0.005481222814658236
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.2/voltage" Id="162">
+<ReadValue notApplicable="false">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.01/voltage" Id="334">
+<ReadValue notApplicable="false">
+228.7
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.04/voltage" Id="337">
+<ReadValue notApplicable="false">
+127.3
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.05/voltage" Id="338">
+<ReadValue notApplicable="false">
+320.5
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR3-CH.02/voltage" Id="290">
+<ReadValue notApplicable="false">
+136.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR3-CH.06/voltage" Id="294">
+<ReadValue notApplicable="false">
+58.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.6/gap" Id="189">
+<ReadValue notApplicable="false">
+0.29982000000000003
+</ReadValue>
+<WriteValue notApplicable="false">
+0.4
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.6-MT_EC/position" Id="192">
+<ReadValue notApplicable="false">
+0.29982000000000003
+</ReadValue>
+<WriteValue notApplicable="false">
+0.3
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/DT/CAMX.1-MT_RZ/offset" Id="195">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/DT/CAMX.1-MT_TX/position" Id="80">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/DT/DTC_CCD.1-MT_TS/position" Id="82">
+<ReadValue notApplicable="false">
+309.245
+</ReadValue>
+<WriteValue notApplicable="false">
+309.24264512959274
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.5/insideUpPosition" Id="302">
+<ReadValue notApplicable="false">
+0.99997
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.5/gap" Id="310">
+<ReadValue notApplicable="false">
+1.4998600000000002
+</ReadValue>
+<WriteValue notApplicable="false">
+3.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.5/gapOffset" Id="311">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="TDL-I11-MA/DG/XBPM.2/zPos" Id="64">
+<ReadValue notApplicable="false">
+0.13697919354632648
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_H.1/position" Id="10">
+<ReadValue notApplicable="false">
+4.971864523000178E-4
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_H.1/positionOffset" Id="96">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_V.1/positionOffset" Id="98">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_V.1-MT_D/offset" Id="17">
+<ReadValue notApplicable="false">
+0.1957156021211
+</ReadValue>
+<WriteValue notApplicable="false">
+0.1957156021211
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_V.1-MT_U/position" Id="4">
+<ReadValue notApplicable="false">
+0.5044156603575001
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_H.2/insideUpPosition" Id="23">
+<ReadValue notApplicable="false">
+1.1789182386208001
+</ReadValue>
+<WriteValue notApplicable="false">
+1.9999164851399
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_H.2-MT_O/position" Id="58">
+<ReadValue notApplicable="false">
+1.1786577231675002
+</ReadValue>
+<WriteValue notApplicable="false">
+2.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_V.2/insideUpPosition" Id="29">
+<ReadValue notApplicable="false">
+0.5101178774495001
+</ReadValue>
+<WriteValue notApplicable="false">
+0.9995730256416999
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_V.2/outsideDownPosition" Id="30">
+<ReadValue notApplicable="false">
+0.5089168301179
+</ReadValue>
+<WriteValue notApplicable="false">
+1.0000722571677
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_V.2/position" Id="31">
+<ReadValue notApplicable="false">
+6.00523665800019E-4
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_V.2-MT_D/position" Id="59">
+<ReadValue notApplicable="false">
+0.5089168301179
+</ReadValue>
+<WriteValue notApplicable="false">
+2.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_V.2-MT_U/position" Id="60">
+<ReadValue notApplicable="false">
+0.5101178774495001
+</ReadValue>
+<WriteValue notApplicable="false">
+2.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_H.3/positionOffset" Id="208">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_H.3-MT_TX/offset" Id="211">
+<ReadValue notApplicable="false">
+-0.0283
+</ReadValue>
+<WriteValue notApplicable="false">
+-0.0283
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.1-MT_Tz/position" Id="226">
+<ReadValue notApplicable="false">
+-4.163336342344337E-17
+</ReadValue>
+<WriteValue notApplicable="false">
+-4.163336342344337E-17
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2/roll" Id="126">
+<ReadValue notApplicable="false">
+-0.01047619047580818
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2/t1z" Id="127">
+<ReadValue notApplicable="false">
+12.3544
+</ReadValue>
+<WriteValue notApplicable="false">
+12.35457539700116
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.10/voltage" Id="160">
+<ReadValue notApplicable="false">
+-68.4
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.6/gapOffset" Id="231">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.6-MT_Tz/offset" Id="193">
+<ReadValue notApplicable="false">
+1.8432122560535444
+</ReadValue>
+<WriteValue notApplicable="false">
+1.8432122560535444
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/DT/CAMX.1-MT_TX/offset" Id="196">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/DT/CAMX.1-MT_TZ/position" Id="81">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+1.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.5/positionOffset" Id="305">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.5-MT_EC/position" Id="307">
+<ReadValue notApplicable="false">
+1.99994
+</ReadValue>
+<WriteValue notApplicable="false">
+2.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.5-MT_Tx/position" Id="309">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.5/outsideDownPosition" Id="313">
+<ReadValue notApplicable="false">
+0.7499300000000001
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.5-MT_EC/offset" Id="316">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/SHUTTER-MT_Tz/offset" Id="322">
+<ReadValue notApplicable="false">
+0.01
+</ReadValue>
+<WriteValue notApplicable="false">
+0.01
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/TAB.4-MT_Tz/offset" Id="326">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_H.1-MT_I/position" Id="1">
+<ReadValue notApplicable="false">
+0.7993799333004
+</ReadValue>
+<WriteValue notApplicable="false">
+2.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C03/OP/MONO1-MT_Rx_FINE/position" Id="52">
+<ReadValue notApplicable="false">
+-0.27940000000000004
+</ReadValue>
+<WriteValue notApplicable="false">
+-0.2793
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1-MT_Tx.1/position" Id="65">
+<ReadValue notApplicable="false">
+-12.0
+</ReadValue>
+<WriteValue notApplicable="false">
+-12.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_H.2/gap" Id="22">
+<ReadValue notApplicable="false">
+2.3575759617883003
+</ReadValue>
+<WriteValue notApplicable="false">
+2.358
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_H.2/gapOffset" Id="104">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_H.2/positionOffset" Id="105">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_V.2-MT_D/offset" Id="32">
+<ReadValue notApplicable="false">
+-0.9766831698821
+</ReadValue>
+<WriteValue notApplicable="false">
+-0.9766831698821
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/OP/MIR.1-MT_Rz/offset" Id="121">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/OP/MIR.1-MT_Tx/position" Id="124">
+<ReadValue notApplicable="false">
+-8.9954
+</ReadValue>
+<WriteValue notApplicable="false">
+-9.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_H.3/outsideDownPosition" Id="206">
+<ReadValue notApplicable="false">
+1.0200700000000003
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_H.3-MT_EC/position" Id="210">
+<ReadValue notApplicable="false">
+2.0400400000000003
+</ReadValue>
+<WriteValue notApplicable="false">
+2.04
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_V.3/position" Id="217">
+<ReadValue notApplicable="false">
+3.0000000000009576E-4
+</ReadValue>
+<WriteValue notApplicable="false">
+-5.199308759884502E-5
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.1-MT_Tx/offset" Id="223">
+<ReadValue notApplicable="false">
+0.1
+</ReadValue>
+<WriteValue notApplicable="false">
+0.1
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tz.3/offset" Id="143">
+<ReadValue notApplicable="false">
+-0.232
+</ReadValue>
+<WriteValue notApplicable="false">
+-0.232
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR.2-MT_Rx/position" Id="150">
+<ReadValue notApplicable="false">
+3.98775408
+</ReadValue>
+<WriteValue notApplicable="false">
+3.9823
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR.3-MT_Rz/offset" Id="153">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR.3-MT_Tx/offset" Id="155">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.11/voltage" Id="161">
+<ReadValue notApplicable="false">
+15.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR3-CH.07/voltage" Id="295">
+<ReadValue notApplicable="false">
+-365.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.6/gapOffset" Id="227">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.6/insideUpPosition" Id="228">
+<ReadValue notApplicable="false">
+0.25012834914670085
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.6-MT_EC/position" Id="186">
+<ReadValue notApplicable="false">
+0.5000800000000001
+</ReadValue>
+<WriteValue notApplicable="false">
+0.5
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.6/positionOffset" Id="234">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.5-MT_EC/offset" Id="306">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/TAB.4-MT_Tz/position" Id="327">
+<ReadValue notApplicable="false">
+1.999996128
+</ReadValue>
+<WriteValue notApplicable="false">
+2.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_V.1/gapOffset" Id="97">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_V.1/position" Id="16">
+<ReadValue notApplicable="false">
+-1.4997088179999232E-4
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C03/OP/MONO1-MT_Rx_FINE/offset" Id="51">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_H.2-MT_I/position" Id="57">
+<ReadValue notApplicable="false">
+1.1789182386208001
+</ReadValue>
+<WriteValue notApplicable="false">
+2.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_H.2-MT_O/offset" Id="27">
+<ReadValue notApplicable="false">
+-0.1283422768325
+</ReadValue>
+<WriteValue notApplicable="false">
+-0.1283422768325
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_V.2/positionOffset" Id="118">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2/t2z" Id="128">
+<ReadValue notApplicable="false">
+-2.4524
+</ReadValue>
+<WriteValue notApplicable="false">
+-2.4525246029988415
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tz.3/position" Id="144">
+<ReadValue notApplicable="false">
+-2.4568000000000003
+</ReadValue>
+<WriteValue notApplicable="false">
+-2.4566246029988417
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR.2-MT_Rx/offset" Id="149">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR.3-MT_Tx/position" Id="156">
+<ReadValue notApplicable="false">
+-2.0163
+</ReadValue>
+<WriteValue notApplicable="false">
+-2.0178
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR3-CH.00/voltage" Id="288">
+<ReadValue notApplicable="false">
+484.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR3-CH.09/voltage" Id="297">
+<ReadValue notApplicable="false">
+-900.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.6/gap" Id="183">
+<ReadValue notApplicable="false">
+0.5000800000000001
+</ReadValue>
+<WriteValue notApplicable="false">
+0.5
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.6/outsideDownPosition" Id="229">
+<ReadValue notApplicable="false">
+0.24995165085329926
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.6-MT_Tx/offset" Id="187">
+<ReadValue notApplicable="false">
+0.3917116508532992
+</ReadValue>
+<WriteValue notApplicable="false">
+0.3917116508532992
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/DT/DTC_CCD.1-MT_TZ/offset" Id="200">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.5/gapOffset" Id="301">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.5/outsideDownPosition" Id="303">
+<ReadValue notApplicable="false">
+0.99997
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/SHUTTER-MT_Tx/position" Id="321">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/TAB.4-MT_Tx/offset" Id="324">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/TAB.5-MT_Tz/position" Id="331">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_H.1/outsideDownPosition" Id="9">
+<ReadValue notApplicable="false">
+0.800374306205
+</ReadValue>
+<WriteValue notApplicable="false">
+2.0014309709479
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_H.1-MT_O/position" Id="2">
+<ReadValue notApplicable="false">
+0.800374306205
+</ReadValue>
+<WriteValue notApplicable="false">
+2.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_V.1/outsideDownPosition" Id="15">
+<ReadValue notApplicable="false">
+0.5047156021211
+</ReadValue>
+<WriteValue notApplicable="false">
+1.5
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C03/OP/MONO1/energy" Id="19">
+<ReadValue notApplicable="false">
+12.649907866142662
+</ReadValue>
+<WriteValue notApplicable="false">
+12.65
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_H.2/outsideDownPosition" Id="24">
+<ReadValue notApplicable="false">
+1.1786577231675002
+</ReadValue>
+<WriteValue notApplicable="false">
+1.9997631535167002
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_V.2/gap" Id="28">
+<ReadValue notApplicable="false">
+1.0190347075674002
+</ReadValue>
+<WriteValue notApplicable="false">
+1.0191399705286
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/OP/MIR.1-MT_Rs/position" Id="120">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_H.3-MT_EC/offset" Id="209">
+<ReadValue notApplicable="false">
+-0.034
+</ReadValue>
+<WriteValue notApplicable="false">
+-0.034
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_H.3-MT_TX/position" Id="212">
+<ReadValue notApplicable="false">
+4.999999999999875E-5
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_V.3/gapOffset" Id="214">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_V.3/insideUpPosition" Id="215">
+<ReadValue notApplicable="false">
+0.5110699999999999
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2/yaw" Id="133">
+<ReadValue notApplicable="false">
+8.951494451882338
+</ReadValue>
+<WriteValue notApplicable="false">
+8.9516
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2/zC" Id="134">
+<ReadValue notApplicable="false">
+-1.0209619637180367E-4
+</ReadValue>
+<WriteValue notApplicable="false">
+-5.199308759884502E-5
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tx.1/offset" Id="135">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tx.1/position" Id="136">
+<ReadValue notApplicable="false">
+7.6309000000000005
+</ReadValue>
+<WriteValue notApplicable="false">
+7.6313
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tx.2/offset" Id="137">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tx.2/position" Id="138">
+<ReadValue notApplicable="false">
+-8.7642
+</ReadValue>
+<WriteValue notApplicable="false">
+-8.764100000000001
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tz.1/offset" Id="139">
+<ReadValue notApplicable="false">
+-0.232
+</ReadValue>
+<WriteValue notApplicable="false">
+-0.232
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.3-MT_Tx/position" Id="146">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+-7.0E-4
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR.2-MT_Tz/position" Id="152">
+<ReadValue notApplicable="false">
+-0.2227
+</ReadValue>
+<WriteValue notApplicable="false">
+-0.223
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR.3-MT_Rz/position" Id="154">
+<ReadValue notApplicable="false">
+-4.46727945
+</ReadValue>
+<WriteValue notApplicable="false">
+-4.4654
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.6/voltage" Id="166">
+<ReadValue notApplicable="false">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.8/voltage" Id="168">
+<ReadValue notApplicable="false">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.00/voltage" Id="333">
+<ReadValue notApplicable="false">
+109.9
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR3-CH.01/voltage" Id="289">
+<ReadValue notApplicable="false">
+460.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR3-CH.03/voltage" Id="291">
+<ReadValue notApplicable="false">
+191.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/DT/CAMX.1-MT_RZ/position" Id="87">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+4060.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/DT/DTC_CCD.1-MT_TS/offset" Id="198">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.5-MT_Tx/offset" Id="308">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.5-MT_Tz/offset" Id="318">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/SHUTTER-MT_Tx/offset" Id="320">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/TAB.5-MT_Tx/offset" Id="328">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/TAB.5-MT_Tz/offset" Id="330">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="TDL-I11-MA/DG/XBPM.1/xPos" Id="61">
+<ReadValue notApplicable="false">
+-0.668727814474447
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="ANS-C11/EI/M-U24/gap" Id="6">
+<ReadValue notApplicable="false">
+29.995700000000003
+</ReadValue>
+<WriteValue notApplicable="false">
+8.084090909090909
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_H.1/gap" Id="7">
+<ReadValue notApplicable="false">
+1.5997542395054
+</ReadValue>
+<WriteValue notApplicable="false">
+1.6
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_H.1/gapOffset" Id="95">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_H.1-MT_O/offset" Id="12">
+<ReadValue notApplicable="false">
+0.037374306205
+</ReadValue>
+<WriteValue notApplicable="false">
+0.037374306205
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C03/OP/MONO1/rx2_1" Id="50">
+<ReadValue notApplicable="false">
+-0.27940000000000004
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C03/OP/MONO1-MT_Rx/position" Id="54">
+<ReadValue notApplicable="false">
+8.9940125
+</ReadValue>
+<WriteValue notApplicable="false">
+8.993946450428167
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/DT/IMAG.2-MT_Tz/position" Id="202">
+<ReadValue notApplicable="false">
+30.0
+</ReadValue>
+<WriteValue notApplicable="false">
+30.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_V.2/gapOffset" Id="117">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_H.3/position" Id="207">
+<ReadValue notApplicable="false">
+4.999999999999875E-5
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_V.3-MT_EC/offset" Id="219">
+<ReadValue notApplicable="false">
+-0.0329
+</ReadValue>
+<WriteValue notApplicable="false">
+-0.0329
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_V.3-MT_EC/position" Id="220">
+<ReadValue notApplicable="false">
+1.02274
+</ReadValue>
+<WriteValue notApplicable="false">
+1.0228145948168839
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tz.2/position" Id="142">
+<ReadValue notApplicable="false">
+-2.4524
+</ReadValue>
+<WriteValue notApplicable="false">
+-2.4525246029988415
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.1/voltage" Id="159">
+<ReadValue notApplicable="false">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.3/voltage" Id="163">
+<ReadValue notApplicable="false">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.5/voltage" Id="165">
+<ReadValue notApplicable="false">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.7/voltage" Id="167">
+<ReadValue notApplicable="false">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.9/voltage" Id="169">
+<ReadValue notApplicable="false">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.02/voltage" Id="335">
+<ReadValue notApplicable="false">
+162.2
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.03/voltage" Id="336">
+<ReadValue notApplicable="false">
+177.1
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.07/voltage" Id="340">
+<ReadValue notApplicable="false">
+293.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR3-CH.04/voltage" Id="292">
+<ReadValue notApplicable="false">
+91.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR3-CH.10/voltage" Id="298">
+<ReadValue notApplicable="false">
+-702.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.6/position" Id="184">
+<ReadValue notApplicable="false">
+-8.83491467007898E-5
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.6/positionOffset" Id="230">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/DT/CAMX.1-MT_TZ/offset" Id="197">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.5/gap" Id="300">
+<ReadValue notApplicable="false">
+1.99994
+</ReadValue>
+<WriteValue notApplicable="false">
+7.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="TDL-I11-MA/DG/XBPM.1/zPos" Id="62">
+<ReadValue notApplicable="false">
+0.17724988626826854
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="ANS-C11/EI/M-U24/encoder2Position" Id="5">
+<ReadValue notApplicable="false">
+30.0207
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_H.1/insideUpPosition" Id="8">
+<ReadValue notApplicable="false">
+0.7993799333004
+</ReadValue>
+<WriteValue notApplicable="false">
+1.9999904854773
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_V.1/gap" Id="13">
+<ReadValue notApplicable="false">
+1.0091312624786002
+</ReadValue>
+<WriteValue notApplicable="false">
+1.0088111607672
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C02/EX/FENT_V.1-MT_U/offset" Id="18">
+<ReadValue notApplicable="false">
+-0.1970843396425
+</ReadValue>
+<WriteValue notApplicable="false">
+-0.1970843396425
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C03/OP/MONO1/lambda" Id="20">
+<ReadValue notApplicable="false">
+0.9801192784323931
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/DT/IMAG.2-MT_Tz/offset" Id="201">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1-MT_Tx.2/position" Id="66">
+<ReadValue notApplicable="false">
+-3.9999999999999075E-5
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_H.2/position" Id="25">
+<ReadValue notApplicable="false">
+-1.3025772664993754E-4
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_H.2-MT_I/offset" Id="26">
+<ReadValue notApplicable="false">
+0.1181182386208
+</ReadValue>
+<WriteValue notApplicable="false">
+0.1181182386208
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/OP/MIR.1-MT_Tx/offset" Id="123">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_V.3/positionOffset" Id="218">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_V.3-MT_TZ/position" Id="222">
+<ReadValue notApplicable="false">
+3.0000000000009576E-4
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.1-MT_Tz/offset" Id="225">
+<ReadValue notApplicable="false">
+-1.84
+</ReadValue>
+<WriteValue notApplicable="false">
+-1.84
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tz.1/position" Id="140">
+<ReadValue notApplicable="false">
+12.3543
+</ReadValue>
+<WriteValue notApplicable="false">
+12.35457539700116
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.3-MT_Tx/offset" Id="145">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.3-MT_Tz/offset" Id="147">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.3-MT_Tz/position" Id="148">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR.2-MT_Tz/offset" Id="151">
+<ReadValue notApplicable="false">
+0.073
+</ReadValue>
+<WriteValue notApplicable="false">
+0.073
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.4/voltage" Id="164">
+<ReadValue notApplicable="false">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.08/voltage" Id="341">
+<ReadValue notApplicable="false">
+-49.4
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR3-CH.05/voltage" Id="293">
+<ReadValue notApplicable="false">
+121.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR3-CH.11/voltage" Id="299">
+<ReadValue notApplicable="false">
+-617.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.6/outsideDownPosition" Id="233">
+<ReadValue notApplicable="false">
+0.14992225605354462
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.6/position" Id="190">
+<ReadValue notApplicable="false">
+1.2256053544601464E-5
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.5/insideUpPosition" Id="312">
+<ReadValue notApplicable="false">
+0.7499300000000001
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.5/positionOffset" Id="315">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.5-MT_EC/position" Id="317">
+<ReadValue notApplicable="false">
+1.4998600000000002
+</ReadValue>
+<WriteValue notApplicable="false">
+1.5
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.5-MT_Tz/position" Id="319">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/SHUTTER-MT_Tz/position" Id="323">
+<ReadValue notApplicable="false">
+4.194799999999988E-5
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="0" DataFormat="0" DataType="5" CompleteName="TDL-I11-MA/DG/XBPM.2/xPos" Id="63">
+<ReadValue notApplicable="false">
+-0.2634294752456678
+</ReadValue>
+<WriteValue notApplicable="true">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C03/OP/MONO1/thetaBragg" Id="21">
+<ReadValue notApplicable="false">
+8.9940125
+</ReadValue>
+<WriteValue notApplicable="false">
+9.8466
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1-MT_Tx.1/offset" Id="101">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1-MT_Tz/offset" Id="103">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1-MT_Tz/position" Id="67">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/EX/FENT_V.2-MT_U/offset" Id="33">
+<ReadValue notApplicable="false">
+1.0809178774495
+</ReadValue>
+<WriteValue notApplicable="false">
+1.0809178774495
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C04/OP/MIR.1-MT_Rs/offset" Id="119">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/FENT_V.3/gap" Id="213">
+<ReadValue notApplicable="false">
+1.02274
+</ReadValue>
+<WriteValue notApplicable="false">
+2.5
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.1-MT_Tx/position" Id="224">
+<ReadValue notApplicable="false">
+3.469446951953614E-18
+</ReadValue>
+<WriteValue notApplicable="false">
+0.16
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2/t4x" Id="130">
+<ReadValue notApplicable="false">
+7.6309000000000005
+</ReadValue>
+<WriteValue notApplicable="false">
+7.6313
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2/t5x" Id="131">
+<ReadValue notApplicable="false">
+-8.7642
+</ReadValue>
+<WriteValue notApplicable="false">
+-8.764100000000001
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/EX/TAB.2-MT_Tz.2/offset" Id="141">
+<ReadValue notApplicable="false">
+-0.232
+</ReadValue>
+<WriteValue notApplicable="false">
+-0.232
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.0/voltage" Id="158">
+<ReadValue notApplicable="false">
+
+</ReadValue>
+<WriteValue notApplicable="false">
+
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.06/voltage" Id="339">
+<ReadValue notApplicable="false">
+292.4
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR2-CH.09/voltage" Id="342">
+<ReadValue notApplicable="false">
+-159.2
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C05/OP/MIR3-CH.08/voltage" Id="296">
+<ReadValue notApplicable="false">
+-546.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.6-MT_EC/offset" Id="185">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.6-MT_Tx/position" Id="188">
+<ReadValue notApplicable="false">
+-8.83491467007898E-5
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.6/insideUpPosition" Id="232">
+<ReadValue notApplicable="false">
+0.14989774394645541
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.6-MT_EC/offset" Id="191">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.6-MT_Tz/position" Id="194">
+<ReadValue notApplicable="false">
+1.2256053544601464E-5
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/DT/DTC_CCD.1-MT_TX/offset" Id="199">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/DT/DTC_CCD.1-MT_TX/position" Id="83">
+<ReadValue notApplicable="false">
+-20.0
+</ReadValue>
+<WriteValue notApplicable="false">
+-20.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-CX1/DT/DTC_CCD.1-MT_TZ/position" Id="84">
+<ReadValue notApplicable="false">
+-10.0
+</ReadValue>
+<WriteValue notApplicable="false">
+-10.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_H.5/position" Id="304">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/FENT_V.5/position" Id="314">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/TAB.4-MT_Tx/position" Id="325">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute>
+<Attribute Writable="3" DataFormat="0" DataType="5" CompleteName="I11-MA-C06/EX/TAB.5-MT_Tx/position" Id="329">
+<ReadValue notApplicable="false">
+0.0
+</ReadValue>
+<WriteValue notApplicable="false">
+0.0
+</WriteValue>
+</Attribute></Snapshot>

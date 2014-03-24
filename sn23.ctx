@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Context Name="SuiviLigneQuotidien" Description="Position du faisceau sur OAV, position des Apertures et CPBS, Temp EH" isModified="false" path="/home/experiences/proxima2a/com-proxima2a/Martin/sn23.ctx" Author="Duran" ID="23" CreationDate="2013-09-06" Reason="Suivi des mouvements de faisceau - A lancer apres un reglage">
+<Attribute Name="Aperture_100um_X" Member="MD2" Device="MD2" Domain="PASSERELLE" CompleteName="PASSERELLE/EH/MD2/Aperture_100um_X" Family="EH" />
+
+<Attribute Name="Aperture_100um_Z" Member="MD2" Device="MD2" Domain="PASSERELLE" CompleteName="PASSERELLE/EH/MD2/Aperture_100um_Z" Family="EH" />
+
+<Attribute Name="Aperture_10um_X" Member="MD2" Device="MD2" Domain="PASSERELLE" CompleteName="PASSERELLE/EH/MD2/Aperture_10um_X" Family="EH" />
+
+<Attribute Name="Aperture_10um_Z" Member="MD2" Device="MD2" Domain="PASSERELLE" CompleteName="PASSERELLE/EH/MD2/Aperture_10um_Z" Family="EH" />
+
+<Attribute Name="Aperture_20um_X" Member="MD2" Device="MD2" Domain="PASSERELLE" CompleteName="PASSERELLE/EH/MD2/Aperture_20um_X" Family="EH" />
+
+<Attribute Name="Aperture_20um_Z" Member="MD2" Device="MD2" Domain="PASSERELLE" CompleteName="PASSERELLE/EH/MD2/Aperture_20um_Z" Family="EH" />
+
+<Attribute Name="Aperture_50um_X" Member="MD2" Device="MD2" Domain="PASSERELLE" CompleteName="PASSERELLE/EH/MD2/Aperture_50um_X" Family="EH" />
+
+<Attribute Name="Aperture_50um_Z" Member="MD2" Device="MD2" Domain="PASSERELLE" CompleteName="PASSERELLE/EH/MD2/Aperture_50um_Z" Family="EH" />
+
+<Attribute Name="horizontalPosition" Member="XBPM_DIODE.1" Device="XBPM_DIODE.1" Domain="I11-MA-C04" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1/horizontalPosition" Family="DT" />
+
+<Attribute Name="horizontalPosition" Member="XBPM_DIODE.3" Device="XBPM_DIODE.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/DT/XBPM_DIODE.3/horizontalPosition" Family="DT" />
+
+<Attribute Name="horizontalPosition" Member="XBPM_DIODE.5" Device="XBPM_DIODE.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/DT/XBPM_DIODE.5/horizontalPosition" Family="DT" />
+
+<Attribute Name="intensity" Member="XBPM_DIODE.1" Device="XBPM_DIODE.1" Domain="I11-MA-C04" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1/intensity" Family="DT" />
+
+<Attribute Name="intensity" Member="XBPM_DIODE.3" Device="XBPM_DIODE.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/DT/XBPM_DIODE.3/intensity" Family="DT" />
+
+<Attribute Name="intensity" Member="XBPM_DIODE.5" Device="XBPM_DIODE.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/DT/XBPM_DIODE.5/intensity" Family="DT" />
+
+<Attribute Name="quadrant1" Member="XBPM_DIODE.1" Device="XBPM_DIODE.1" Domain="I11-MA-C04" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1/quadrant1" Family="DT" />
+
+<Attribute Name="quadrant1" Member="XBPM_DIODE.3" Device="XBPM_DIODE.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/DT/XBPM_DIODE.3/quadrant1" Family="DT" />
+
+<Attribute Name="quadrant1" Member="XBPM_DIODE.5" Device="XBPM_DIODE.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/DT/XBPM_DIODE.5/quadrant1" Family="DT" />
+
+<Attribute Name="quadrant2" Member="XBPM_DIODE.1" Device="XBPM_DIODE.1" Domain="I11-MA-C04" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1/quadrant2" Family="DT" />
+
+<Attribute Name="quadrant2" Member="XBPM_DIODE.3" Device="XBPM_DIODE.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/DT/XBPM_DIODE.3/quadrant2" Family="DT" />
+
+<Attribute Name="quadrant2" Member="XBPM_DIODE.5" Device="XBPM_DIODE.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/DT/XBPM_DIODE.5/quadrant2" Family="DT" />
+
+<Attribute Name="quadrant3" Member="XBPM_DIODE.1" Device="XBPM_DIODE.1" Domain="I11-MA-C04" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1/quadrant3" Family="DT" />
+
+<Attribute Name="quadrant3" Member="XBPM_DIODE.3" Device="XBPM_DIODE.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/DT/XBPM_DIODE.3/quadrant3" Family="DT" />
+
+<Attribute Name="quadrant3" Member="XBPM_DIODE.5" Device="XBPM_DIODE.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/DT/XBPM_DIODE.5/quadrant3" Family="DT" />
+
+<Attribute Name="quadrant4" Member="XBPM_DIODE.1" Device="XBPM_DIODE.1" Domain="I11-MA-C04" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1/quadrant4" Family="DT" />
+
+<Attribute Name="quadrant4" Member="XBPM_DIODE.3" Device="XBPM_DIODE.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/DT/XBPM_DIODE.3/quadrant4" Family="DT" />
+
+<Attribute Name="quadrant4" Member="XBPM_DIODE.5" Device="XBPM_DIODE.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/DT/XBPM_DIODE.5/quadrant4" Family="DT" />
+
+<Attribute Name="temperature" Member="TC.1" Device="TC.1" Domain="I11-MA-C00" CompleteName="I11-MA-C00/EX/TC.1/temperature" Family="EX" />
+
+<Attribute Name="temperature" Member="TC.1" Device="TC.1" Domain="I11-MA-C04" CompleteName="I11-MA-C04/EX/TC.1/temperature" Family="EX" />
+
+<Attribute Name="temperature" Member="TC.1" Device="TC.1" Domain="I11-MA-C05" CompleteName="I11-MA-C05/EX/TC.1/temperature" Family="EX" />
+
+<Attribute Name="temperature" Member="TC.1" Device="TC.1" Domain="I11-MA-C06" CompleteName="I11-MA-C06/EX/TC.1/temperature" Family="EX" />
+
+<Attribute Name="temperature" Member="TC.1" Device="TC.1" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/TC.1/temperature" Family="EX" />
+
+<Attribute Name="temperature" Member="TC.2" Device="TC.2" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/TC.2/temperature" Family="EX" />
+
+<Attribute Name="verticalPosition" Member="XBPM_DIODE.1" Device="XBPM_DIODE.1" Domain="I11-MA-C04" CompleteName="I11-MA-C04/DT/XBPM_DIODE.1/verticalPosition" Family="DT" />
+
+<Attribute Name="verticalPosition" Member="XBPM_DIODE.3" Device="XBPM_DIODE.3" Domain="I11-MA-C05" CompleteName="I11-MA-C05/DT/XBPM_DIODE.3/verticalPosition" Family="DT" />
+
+<Attribute Name="verticalPosition" Member="XBPM_DIODE.5" Device="XBPM_DIODE.5" Domain="I11-MA-C06" CompleteName="I11-MA-C06/DT/XBPM_DIODE.5/verticalPosition" Family="DT" />
+
+<Attribute Name="xPos" Member="XBPM.1" Device="XBPM.1" Domain="TDL-I11-MA" CompleteName="TDL-I11-MA/DG/XBPM.1/xPos" Family="DG" />
+
+<Attribute Name="xPos" Member="XBPM.2" Device="XBPM.2" Domain="TDL-I11-MA" CompleteName="TDL-I11-MA/DG/XBPM.2/xPos" Family="DG" />
+
+<Attribute Name="Zoom1_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom1_X" Family="EX" />
+
+<Attribute Name="Zoom1_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom1_Z" Family="EX" />
+
+<Attribute Name="Zoom10_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom10_X" Family="EX" />
+
+<Attribute Name="Zoom10_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom10_Z" Family="EX" />
+
+<Attribute Name="Zoom2_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom2_X" Family="EX" />
+
+<Attribute Name="Zoom2_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom2_Z" Family="EX" />
+
+<Attribute Name="Zoom3_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom3_X" Family="EX" />
+
+<Attribute Name="Zoom3_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom3_Z" Family="EX" />
+
+<Attribute Name="Zoom4_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom4_X" Family="EX" />
+
+<Attribute Name="Zoom4_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom4_Z" Family="EX" />
+
+<Attribute Name="Zoom5_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom5_X" Family="EX" />
+
+<Attribute Name="Zoom5_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom5_Z" Family="EX" />
+
+<Attribute Name="Zoom6_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom6_X" Family="EX" />
+
+<Attribute Name="Zoom6_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom6_Z" Family="EX" />
+
+<Attribute Name="Zoom7_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom7_X" Family="EX" />
+
+<Attribute Name="Zoom7_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom7_Z" Family="EX" />
+
+<Attribute Name="Zoom8_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom8_X" Family="EX" />
+
+<Attribute Name="Zoom8_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom8_Z" Family="EX" />
+
+<Attribute Name="Zoom9_X" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom9_X" Family="EX" />
+
+<Attribute Name="Zoom9_Z" Member="MD2-BEAMPOSITION" Device="MD2-BEAMPOSITION" Domain="I11-MA-CX1" CompleteName="I11-MA-CX1/EX/MD2-BEAMPOSITION/Zoom9_Z" Family="EX" />
+
+<Attribute Name="zPos" Member="XBPM.1" Device="XBPM.1" Domain="TDL-I11-MA" CompleteName="TDL-I11-MA/DG/XBPM.1/zPos" Family="DG" />
+
+<Attribute Name="zPos" Member="XBPM.2" Device="XBPM.2" Domain="TDL-I11-MA" CompleteName="TDL-I11-MA/DG/XBPM.2/zPos" Family="DG" />
+</Context>
